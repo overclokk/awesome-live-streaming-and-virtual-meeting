@@ -1,6 +1,19 @@
 # Awesome Live Streaming and Virtual Meeting  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A collaborative and curated list of great resources about how to do online meeting, virtual events, screencasting and live streaming. Feel free to contribute to this on-going list. ([Please, read this before contributing.](contributing.md))
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Cloud services](#cloud-services)
+- [Open Source](#open-source)
+- [Software screencast](#software-screencast)
+- [Blog articles and resources](#blog-articles-and-resources)
+- [Other Awesome related stuff](#other-awesome-related-stuff)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Cloud services
 * [Zoom](https://zoom.us/) Keeping you connected wherever you are {free|paid}.
 * [Webex](https://www.webex.com/) Hassle-free video conferencing that just works {free|paid}.
@@ -21,7 +34,7 @@ A collaborative and curated list of great resources about how to do online meeti
 * [Forum GT](http://www.giorgiotave.it/forum/social-media-marketing/262717-le-soluzioni-semplici-per-uno-streaming-privato.html)
 
 ## Other Awesome related stuff
-* [Broadcast technologies](https://github.com/ebu/awesome-broadcasting)
+* [Broadcast technologies](https://github.com/ebu/awesome-broadcasting)  A curated list of amazingly awesome open source resources for broadcasters.
 
 ## License
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
