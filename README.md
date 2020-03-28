@@ -27,7 +27,8 @@ A collaborative and curated list of great resources about how to do online meeti
 * [Jitsi](https://jitsi.org/) Open-source Video conferencing platform {free|open source}.
 
 ## Software screencast
-* [OBS-Studio](https://github.com/obsproject/obs-studio) - Software for live streaming and screen recording.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) Software for live streaming and screen recording.
+* [WireCast](https://www.telestream.net/wirecast/) Stream like the pros, Wirecast live video streaming production {paid}.
 
 ## Blog articles and resources
 * [Community WordPress](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/)
