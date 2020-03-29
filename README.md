@@ -1,4 +1,4 @@
-# Awesome Live Streaming and Virtual Meeting  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Live Streaming and Virtual Meeting  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/overclokk/awesome-live-streaming-and-virtual-meeting.svg?branch=master)](https://travis-ci.org/overclokk/awesome-live-streaming-and-virtual-meeting)
 A collaborative and curated list of great resources about how to do online meeting, virtual events, screencasting and live streaming. Feel free to contribute to this on-going list. ([Please, read this before contributing.](contributing.md))
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
