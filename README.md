@@ -31,7 +31,7 @@ A collaborative and curated list of great resources about how to do online meeti
 * [WireCast](https://www.telestream.net/wirecast/) Stream like the pros, Wirecast live video streaming production {paid}.
 
 ## Blog articles and resources
-* [Community WordPress](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/) :en:
+* [Community WordPress](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/) :gb:
 * [Forum GT](http://www.giorgiotave.it/forum/social-media-marketing/262717-le-soluzioni-semplici-per-uno-streaming-privato.html) :it:
 
 ## Other Awesome related stuff
