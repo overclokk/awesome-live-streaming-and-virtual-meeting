@@ -22,6 +22,7 @@ A collaborative and curated list of great resources about how to do online meeti
 * [Jitsi meet](https://meet.jit.si/) Open-source Video conferencing platform {free}.
 * [8x8](https://8x8.vc/) Secure, fully-featured and free video conferencing {free|paid}.
 * [FreeConferenceCall](https://www.freeconferencecall.com/) The Ultimate Free Conferencing and Collaboration Tool {free|donation}.
+* [StreamYard](https://streamyard.com/) The easiest way to create professional live streams {free|paid}.
 
 ## Open Source
 * [Jitsi](https://jitsi.org/) Open-source Video conferencing platform {free|open source}.
