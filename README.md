@@ -35,6 +35,7 @@ A collaborative and curated list of great resources about how to do online meeti
 * [Community WordPress](https://make.wordpress.org/community/handbook/meetup-organizer/resources/organizing-virtual-events/) :gb:
 * [Forum GT Private Streaming](http://www.giorgiotave.it/forum/social-media-marketing/262717-le-soluzioni-semplici-per-uno-streaming-privato.html) :it:
 * [Forum GT Streaming](http://www.giorgiotave.it/forum/social-media-marketing/262740-raccolta-di-tutte-le-discussioni-sullo-streaming.html) :it:
+* [Hybrid presentation pointing: rehearsal record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) - A blank two-page worksheet for checking whether room and remote viewers identify the intended slide detail during rehearsal (CC BY 4.0).
 
 ## Other Awesome related stuff
 * [Broadcast technologies](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources for broadcasters.
